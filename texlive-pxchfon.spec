@@ -1,6 +1,6 @@
 Name:		texlive-pxchfon
-Version:	1.2
-Release:	2
+Version:	1.4a
+Release:	1
 Summary:	Japanese font setup for pLaTeX and upLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/pxchfon
