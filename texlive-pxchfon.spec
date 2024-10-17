@@ -3,7 +3,7 @@ Version:	72097
 Release:	1
 Summary:	Japanese font setup for pLaTeX and upLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/japanese/pxchfon
+URL:		https://www.ctan.org/tex-archive/language/japanese/pxchfon
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxchfon.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxchfon.doc.r%{version}.tar.xz
